@@ -6,30 +6,56 @@ schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
+      "@id": "https://marketing-boutique.com/services/paid-user-acquisition/#service"
+      name: "Paid User Acquisition Services"
       serviceType: "Paid Advertising"
-      name: "Paid User Acquisition"
+      description: "Data-driven paid acquisition—LinkedIn, Google, and Meta ads with ABM targeting, synthetic audiences, and generative creative testing."
       provider:
-        "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
         name: "Marketing Boutique"
-      areaServed: "Worldwide"
+      areaServed:
+        "@type": "Country"
+        name: "United States"
+      audience:
+        "@type": "BusinessAudience"
+        audienceType: "B2B SaaS Startups"
+      hasOfferCatalog:
+        "@type": "OfferCatalog"
+        name: "Paid User Acquisition Services"
+        itemListElement:
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Account-Based Retargeting"
+              description: "Precision targeting of buying committees via LinkedIn & Meta"
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Synthetic Lookalike Audiences"
+              description: "AI-generated audience segments based on ideal customer profiles"
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Generative Creative Testing"
+              description: "High-velocity ad creative testing using generative AI"
     - "@type": "FAQPage"
       mainEntity:
         - "@type": "Question"
-          name: "What's the minimum budget for paid acquisition?"
+          name: "Which platform is best for B2B ads?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "For meaningful B2B testing, we recommend $10-20K/month. Below that, statistical significance is challenging and learning cycles are slow."
+            text: "LinkedIn is best for precise targeting of decision-makers. Google is best for capturing high-intent search demand. Meta is powerful for retargeting and broad awareness at lower CPMs."
         - "@type": "Question"
-          name: "How do you work with our existing agency?"
+          name: "What's a good B2B CAC?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "We can either replace or augment. Often we take over strategy and ABM integration while the existing agency handles execution."
+            text: "A 'good' CAC depends on your ACV and LTV. Generally, we aim for a CAC payback period of <12 months. For enterprise SaaS, CAC can range from $500 to $5,000+ depending on deal size."
         - "@type": "Question"
-          name: "What's the timeline to see results?"
+          name: "LinkedIn vs Google for B2B?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "Initial campaigns launch in 2-3 weeks. Optimization improvements are visible within 60-90 days as we gather data and iterate."
+            text: "They serve different purposes. Google captures existing demand (people searching for a solution). LinkedIn generates new demand (getting in front of people who fit your ICP but aren't searching yet)."
 ---
 
 # Paid User Acquisition
@@ -126,14 +152,14 @@ We build integrations between paid and organic channels:
 
 ## Frequently Asked Questions
 
-### What's the minimum budget for paid acquisition?
-For meaningful B2B testing, we recommend $10-20K/month. Below that, statistical significance is challenging and learning cycles are slow.
+### Which platform is best for B2B ads?
+LinkedIn is best for precise targeting of decision-makers. Google is best for capturing high-intent search demand. Meta is powerful for retargeting and broad awareness at lower CPMs.
 
-### How do you work with our existing agency?
-We can either replace or augment. Often we take over strategy and ABM integration while the existing agency handles execution.
+### What's a good B2B CAC?
+A 'good' CAC depends on your ACV and LTV. Generally, we aim for a CAC payback period of <12 months. For enterprise SaaS, CAC can range from $500 to $5,000+ depending on deal size.
 
-### What's the timeline to see results?
-Initial campaigns launch in 2-3 weeks. Optimization improvements are visible within 60-90 days as we gather data and iterate.
+### LinkedIn vs Google for B2B?
+They serve different purposes. Google captures existing demand (people searching for a solution). LinkedIn generates new demand (getting in front of people who fit your ICP but aren't searching yet).
 
 ---
 

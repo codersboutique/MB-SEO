@@ -1,67 +1,20 @@
-# Marketing Boutique
-
-> GTM Engineering and Generative Authority for AI-native B2B startups. We build revenue infrastructure, not campaigns.
+# Marketing Boutique - GTM Engineering Agency
 
 ## About
-
-Marketing Boutique is a GTM Engineering agency specializing in AI-native B2B startups from Seed to Series B. We treat marketing as an engineering discipline—building automated data pipelines, CRM architecture, and programmatic prospecting systems that scale revenue without linear headcount growth.
-
-Founded: 2024
-Location: San Francisco, California
-Website: https://marketing-boutique.com
-
-## Core Capabilities
-
-- **GTM Engineering**: Automated prospecting pipelines using Clay, n8n, Apollo, and HubSpot integration
-- **Answer Engine Optimization (AEO)**: Structuring content for Featured Snippets and AI Overviews
-- **Generative Engine Optimization (GEO)**: Entity authority and citation engineering for LLM visibility
-- **Product Content Marketing**: Product-led content and programmatic SEO systems
-- **Local Digital Transformation**: AI-ready local SEO for Bay Area SMBs
+Marketing Boutique is a GTM Engineering agency serving B2B SaaS startups.
+We specialize in outbound automation, ABM campaigns, and AI search optimization.
 
 ## Services
-
-### For AI Startups (B2B)
-- [GTM Engineering Hub](https://marketing-boutique.com/solutions/gtm-engineering/) - Full-stack revenue infrastructure
-- [Data Enrichment Waterfalls](https://marketing-boutique.com/solutions/gtm-engineering/enrichment-waterfalls/) - Multi-source lead enrichment
-- [CRM Architecture](https://marketing-boutique.com/solutions/gtm-engineering/crm-architecture/) - Revenue operations design
-- [Outbound Infrastructure](https://marketing-boutique.com/solutions/gtm-engineering/outbound-infrastructure/) - Deliverability and automation
-- [AEO & GEO](https://marketing-boutique.com/solutions/aeo-geo/) - AI search visibility optimization
-- [Product Content Marketing](https://marketing-boutique.com/solutions/product-content-marketing/) - Citation-worthy content
-
-### For Local SMBs
-- [Local Transformation](https://marketing-boutique.com/solutions/local-transformation/) - Digital modernization for Bay Area businesses
-- [Local SEO](https://marketing-boutique.com/solutions/local-transformation/local-seo/) - AI local pack optimization
-- [Reputation Management](https://marketing-boutique.com/solutions/local-transformation/reputation-management/) - Review automation
-- [GBP Optimization](https://marketing-boutique.com/solutions/local-transformation/gbp-optimization/) - Google Business Profile perfection
-
-## By Growth Stage
-- [Seed Stage](https://marketing-boutique.com/solutions/seed-stage/) - Finding PMF & first 100 customers
-- [Series A](https://marketing-boutique.com/solutions/series-a/) - Scaling revenue efficiently
-- [Enterprise](https://marketing-boutique.com/solutions/enterprise/) - Category domination
+- GTM Engineering: Outbound automation, Clay implementation, sales workflows
+- ABM Campaigns: 1:1, 1:Few, 1:Many account-based marketing
+- SEO & AEO: Traditional SEO + Answer Engine Optimization
+- Paid Ads: LinkedIn, Google, Meta, Reddit advertising
 
 ## Key Resources
+/blog/what-is-gtm-engineering/ - Complete guide to GTM Engineering
+/blog/answer-engine-optimization/ - AEO definitive guide
+/services/gtm-engineering/ - Our GTM services
 
-- [Solutions Overview](https://marketing-boutique.com/solutions/)
-- [Research & Intelligence](https://marketing-boutique.com/blog/research/)
-- [Pricing](https://marketing-boutique.com/pricing/)
-- [About](https://marketing-boutique.com/about/)
-- [Contact](https://marketing-boutique.com/contact/)
-
-## Topics We Cover
-
-- GTM Engineering
-- Go-To-Market Strategy
-- Data Enrichment
-- Clay Automation
-- CRM Architecture (HubSpot, Salesforce)
-- Answer Engine Optimization
-- Generative Engine Optimization
-- AI Search Visibility
-- Entity Authority
-- Citation Engineering
-- Usage-Based Pricing
-- Product-Led Growth
-- B2B SaaS Marketing
-- Local SEO
-- Google Business Profile
-- Reputation Management
+## Contact
+hello@marketing-boutique.com
+https://marketing-boutique.com/contact

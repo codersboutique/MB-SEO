@@ -11,6 +11,9 @@ schema:
     name: "Marketing Boutique"
     description: "A GTM Engineering agency for AI-native B2B startups"
     foundingDate: "2024"
+    founder:
+      "@type": "Person"
+      name: "Fenil Parekh"
     foundingLocation:
       "@type": "Place"
       name: "San Francisco, California"

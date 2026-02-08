@@ -6,38 +6,56 @@ schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Answer Engine Optimization"
+      "@id": "https://marketing-boutique.com/services/aeo-geo/#service"
       name: "AEO & GEO Services"
+      serviceType: "Answer Engine Optimization"
+      description: "Optimize your brand for AI search—be cited by ChatGPT, Perplexity, and Google AI Overviews. Entity authority and citation engineering."
       provider:
-        "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
         name: "Marketing Boutique"
+      areaServed:
+        "@type": "Country"
+        name: "United States"
       audience:
-        "@type": "Audience"
-        audienceType: "B2B AI Startups"
-      areaServed: "Worldwide"
+        "@type": "BusinessAudience"
+        audienceType: "B2B SaaS Startups"
+      hasOfferCatalog:
+        "@type": "OfferCatalog"
+        name: "AEO & GEO Services"
+        itemListElement:
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Entity Authority Construction"
+              description: "Knowledge Graph establishment and verification"
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Citation Engineering"
+              description: "Strategic placement in authoritative sources cited by LLMs"
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Technical Machine Readability"
+              description: "Optimizing code and content structure for AI crawlers"
     - "@type": "FAQPage"
       mainEntity:
         - "@type": "Question"
-          name: "How do you measure AI search visibility?"
+          name: "What is answer engine optimization?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "We use tools like Profound and Visibility that track how often your brand is cited in AI-generated answers across ChatGPT, Perplexity, and Google AI Overviews."
+            text: "Answer Engine Optimization (AEO) is the process of optimizing content to be cited directly by AI-driven search engines like ChatGPT, Perplexity, and Google's AI Overviews, focusing on direct answers and structured data."
         - "@type": "Question"
-          name: "How long does it take to see results?"
+          name: "Is AEO replacing SEO?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "Entity authority is a compounding asset. Initial Knowledge Graph establishment takes 4-6 weeks. Citation frequency improvements are typically visible within 3 months."
+            text: "No, AEO is an evolution of SEO. Traditional SEO (rankings, traffic) remains important for navigational queries, while AEO captures the growing volume of informational queries answered directly by AI."
         - "@type": "Question"
-          name: "Do we still need traditional SEO?"
+          name: "How do you optimize for AI search?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "Yes. Traditional SEO remains the foundation. AEO & GEO build on top of it. We recommend a hybrid approach."
-        - "@type": "Question"
-          name: "What's the first step?"
-          acceptedAnswer:
-            "@type": "Answer"
-            text: "We start with a GEO Visibility Audit—a comprehensive report on your current AI search presence, competitor analysis, and prioritized recommendations."
+            text: "optimization involves three pillars: Entity Authority (Knowledge Graph presence), Information Gain (proprietary data/insights), and Technical Machine Readability (schema, llms.txt, semantic HTML)."
 ---
 
 # AEO & GEO: Dominate AI Search
@@ -147,17 +165,16 @@ When an LLM searches for "2026 AI adoption stats," it will cite the **primary so
 
 ## Frequently Asked Questions
 
-### How do you measure AI search visibility?
-We use tools like **Profound** and **Visibility** that track how often your brand is cited in AI-generated answers across platforms like ChatGPT, Perplexity, and Google AI Overviews.
+## Frequently Asked Questions
 
-### How long does it take to see results?
-Entity authority is a compounding asset. Initial Knowledge Graph establishment takes 4-6 weeks. Citation frequency improvements are typically visible within 3 months.
+### What is answer engine optimization?
+Answer Engine Optimization (AEO) is the process of optimizing content to be cited directly by AI-driven search engines like ChatGPT, Perplexity, and Google's AI Overviews, focusing on direct answers and structured data.
 
-### Do we still need traditional SEO?
-Yes. Traditional SEO (technical health, backlinks, on-page optimization) remains the foundation. AEO & GEO build on top of it. We recommend a hybrid approach.
+### Is AEO replacing SEO?
+No, AEO is an evolution of SEO. Traditional SEO (rankings, traffic) remains important for navigational queries, while AEO captures the growing volume of informational queries answered directly by AI.
 
-### What's the first step?
-We start with a **GEO Visibility Audit**—a comprehensive report on your current AI search presence, competitor analysis, and prioritized recommendations.
+### How do you optimize for AI search?
+Optimization involves three pillars: Entity Authority (Knowledge Graph presence), Information Gain (proprietary data/insights), and Technical Machine Readability (schema, llms.txt, semantic HTML).
 
 ---
 

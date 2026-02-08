@@ -6,20 +6,24 @@ schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
+      "@id": "https://marketing-boutique.com/services/gtm-engineering/#service"
+      name: "GTM Engineering Services"
       serviceType: "GTM Engineering"
-      name: "Full-Stack GTM Engineering for AI Startups"
+      description: "End-to-end go-to-market engineering for B2B SaaS startups. We build and automate your outbound engine using Clay, Apollo, and modern sales tools."
       provider:
-        "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
         name: "Marketing Boutique"
-        sameAs:
-          - "https://www.linkedin.com/company/marketing-boutique"
-          - "https://www.crunchbase.com/organization/marketing-boutique"
-      description: "End-to-end architectural design of revenue operations, including CRM integration, Clay automation waterfalls, and programmatic outbound infrastructure."
-      areaServed: "Worldwide"
+      areaServed:
+        "@type": "Country"
+        name: "United States"
       audience:
-        "@type": "Audience"
-        audienceType: "B2B AI Startups"
+        "@type": "BusinessAudience"
+        audienceType: "B2B SaaS Startups"
+        numberOfEmployees:
+          "@type": "QuantitativeValue"
+          minValue: 10
+          maxValue: 500
       hasOfferCatalog:
         "@type": "OfferCatalog"
         name: "GTM Engineering Services"
@@ -27,36 +31,35 @@ schema:
           - "@type": "Offer"
             itemOffered:
               "@type": "Service"
-              name: "Data Enrichment Waterfalls"
+              name: "Outbound Automation"
+              description: "Automated prospecting and outreach using Clay, Apollo, and custom workflows"
           - "@type": "Offer"
             itemOffered:
               "@type": "Service"
-              name: "CRM Architecture"
+              name: "ABM Campaign Engineering"
+              description: "1:1, 1:Few, and 1:Many account-based marketing campaign design and execution"
           - "@type": "Offer"
             itemOffered:
               "@type": "Service"
-              name: "Outbound Infrastructure"
-          - "@type": "Offer"
-            itemOffered:
-              "@type": "Service"
-              name: "Integration Middleware"
+              name: "RevOps Infrastructure"
+              description: "CRM setup, lead routing, and pipeline automation"
     - "@type": "FAQPage"
       mainEntity:
         - "@type": "Question"
-          name: "What is the difference between GTM Engineering and traditional marketing automation?"
+          name: "What is GTM Engineering?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "Marketing automation is about campaign execution. GTM Engineering is about building the data infrastructure that powers campaigns. We operate one layer deeper in the stack."
+            text: "GTM Engineering is the practice of using engineering and automation to build, optimize, and scale go-to-market operations. It combines sales operations, marketing automation, and data engineering to create efficient revenue systems."
         - "@type": "Question"
-          name: "Do you replace our SDR team?"
+          name: "How much does a GTM Engineering agency cost?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "We augment them. A well-architected GTM pipeline allows a smaller SDR team to achieve greater output."
+            text: "GTM Engineering agency retainers typically range from $8,000 to $25,000 per month depending on scope. Project-based work starts at $15,000 for initial setup and automation builds."
         - "@type": "Question"
-          name: "What does an engagement look like?"
+          name: "What tools do GTM Engineers use?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "We start with a GTM Audit to assess your current stack. Then we propose a project scope—typically starting with one high-impact pipeline."
+            text: "Common GTM Engineering tools include Clay for data enrichment, Apollo for outbound, HubSpot or Salesforce for CRM, Outreach or Salesloft for sequences, and custom integrations using Make, Zapier, or APIs."
 ---
 
 # GTM Engineering
@@ -161,14 +164,14 @@ Startups use fragmented stacks. We connect them.
 
 ## Frequently Asked Questions
 
-### What is the difference between GTM Engineering and traditional marketing automation?
-Marketing automation (HubSpot, Marketo) is about campaign execution. GTM Engineering is about building the **data infrastructure** that powers campaigns. We operate one layer deeper in the stack.
+### What is GTM Engineering?
+GTM Engineering is the practice of using engineering and automation to build, optimize, and scale go-to-market operations. It combines sales operations, marketing automation, and data engineering to create efficient revenue systems.
 
-### Do you replace our SDR team?
-We augment them. A well-architected GTM pipeline allows a smaller SDR team to achieve greater output. In some cases, we help clients delay SDR hires by 6-12 months.
+### How much does a GTM Engineering agency cost?
+GTM Engineering agency retainers typically range from $8,000 to $25,000 per month depending on scope. Project-based work starts at $15,000 for initial setup and automation builds.
 
-### What does an engagement look like?
-We start with a **GTM Audit** to assess your current stack. Then we propose a project scope—typically starting with one high-impact pipeline (e.g., automated enrichment or inbound routing).
+### What tools do GTM Engineers use?
+Common GTM Engineering tools include Clay for data enrichment, Apollo for outbound, HubSpot or Salesforce for CRM, Outreach or Salesloft for sequences, and custom integrations using Make, Zapier, or APIs.
 
 ---
 

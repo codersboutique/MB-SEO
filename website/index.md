@@ -8,26 +8,53 @@ schema:
     - "@type": "Organization"
       "@id": "https://marketing-boutique.com/#organization"
       name: "Marketing Boutique"
+      alternateName: "MB"
       url: "https://marketing-boutique.com"
-      logo: "https://marketing-boutique.com/logo.png"
-      foundingDate: "2024"
-      description: "GTM Engineering and Generative Authority agency for AI-native B2B startups"
+      logo:
+        "@type": "ImageObject"
+        url: "https://marketing-boutique.com/logo.png"
+        width: 600
+        height: 60
+      description: "GTM Engineering and B2B growth agency specializing in outbound automation, ABM campaigns, and AI search optimization for B2B SaaS startups."
+      foundingDate: "2026"
+      founder:
+        "@type": "Person"
+        name: "Fenil Parekh"
+      address:
+        "@type": "PostalAddress"
+        streetAddress: ""
+        addressLocality: "San Francisco"
+        addressRegion: "CA"
+        postalCode: ""
+        addressCountry: "US"
+      contactPoint:
+        "@type": "ContactPoint"
+        contactType: "sales"
+        email: "hello@marketing-boutique.com"
+        url: "https://marketing-boutique.com/contact"
       sameAs:
         - "https://www.linkedin.com/company/marketing-boutique"
-        - "https://www.crunchbase.com/organization/marketing-boutique"
+        - "https://twitter.com/marketingboutiq"
       knowsAbout:
         - "GTM Engineering"
+        - "Go-to-Market Strategy"
+        - "Account-Based Marketing"
+        - "Demand Generation"
+        - "B2B SaaS Marketing"
         - "Answer Engine Optimization"
-        - "Generative Engine Optimization"
-        - "B2B Marketing"
-        - "Clay Automation"
-        - "Data Enrichment"
+        - "AI Search Optimization"
+        - "LinkedIn Advertising"
+        - "Outbound Sales Automation"
     - "@type": "WebSite"
       "@id": "https://marketing-boutique.com/#website"
       url: "https://marketing-boutique.com"
       name: "Marketing Boutique"
       publisher:
         "@id": "https://marketing-boutique.com/#organization"
+      potentialAction:
+        "@type": "SearchAction"
+        target: "https://marketing-boutique.com/search?q={search_term_string}"
+        "query-input": "required name=search_term_string"
 ---
 
 # We Engineer Revenue for AI-Native Startups

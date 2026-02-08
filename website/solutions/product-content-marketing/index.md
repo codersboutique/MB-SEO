@@ -6,13 +6,39 @@ schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Product Content Marketing"
-      name: "Product Content Marketing"
+      "@id": "https://marketing-boutique.com/services/product-content-marketing/#service"
+      name: "Product Content Marketing Services"
+      serviceType: "B2B Content Marketing"
+      description: "Product-led content strategies that solve user problems and drive adoption—programmatic SEO, technical documentation, and conversion content."
       provider:
-        "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
         name: "Marketing Boutique"
-      areaServed: "Worldwide"
+      areaServed:
+        "@type": "Country"
+        name: "United States"
+      audience:
+        "@type": "BusinessAudience"
+        audienceType: "B2B SaaS Startups"
+      hasOfferCatalog:
+        "@type": "OfferCatalog"
+        name: "Product Content Marketing Services"
+        itemListElement:
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Programmatic SEO (pSEO)"
+              description: "Template-based page generation systems for scale"
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Technical Documentation"
+              description: "Developer tutorials, API docs, and integration guides"
+          - "@type": "Offer"
+            itemOffered:
+              "@type": "Service"
+              name: "Product-Led Blog Content"
+              description: "Problem-solution narratives with product as the answer"
     - "@type": "FAQPage"
       mainEntity:
         - "@type": "Question"
