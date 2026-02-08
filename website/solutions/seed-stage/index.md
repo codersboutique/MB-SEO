@@ -119,4 +119,12 @@ We start with a **60-minute Discovery Call** to understand your product, market,
 
 ---
 
+## Related Solutions
+
+- [**Series A Solutions**](/solutions/series-a/) — Ready to scale? See what comes next
+- [**AEO & GEO**](/solutions/aeo-geo/) — Dominate AI search visibility
+- [**View Pricing**](/pricing/) — Seed-friendly packages
+
+---
+
 [**Book a Discovery Call →**](/contact/)

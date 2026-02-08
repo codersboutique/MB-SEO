@@ -126,6 +126,14 @@ A 12-month content planning template for B2B SaaS.
 
 ---
 
+## Explore More
+
+- [**Research**](/blog/research/) — Proprietary data and benchmarks
+- [**Engineering Logs**](/blog/engineering-logs/) — Technical playbooks
+- [**View Pricing**](/pricing/) — See our packages
+
+---
+
 ## Request a Tool
 
 Have an idea for a calculator or template? We're always building.

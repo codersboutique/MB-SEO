@@ -127,6 +127,14 @@ We track outcomes across four categories:
 
 ---
 
+## Related Pages
+
+- [**Our Solutions**](/solutions/) — Explore what we can build for you
+- [**Pricing**](/pricing/) — Transparent, outcome-based packages
+- [**About Us**](/about/) — Meet the GTM Engineering team
+
+---
+
 ## Work With Us
 
 Want to become a case study?

@@ -108,6 +108,14 @@ Tracking, reporting, and marketing measurement.
 
 ---
 
+## Explore More
+
+- [**Research**](/blog/research/) — Proprietary data and benchmarks
+- [**Tools**](/blog/tools/) — Free calculators and templates
+- [**GTM Engineering**](/solutions/gtm-engineering/) — We build these systems for you
+
+---
+
 ## Request a Playbook
 
 Is there a GTM system you'd like us to document? Let us know.

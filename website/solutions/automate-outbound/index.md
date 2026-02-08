@@ -43,7 +43,7 @@ schema:
 
 Manual outbound doesn't scale. SDRs spending hours on LinkedIn research, hand-crafting emails, and tracking responses in spreadsheets is a relic of the past. AI-native startups need **automated prospecting infrastructure** that generates pipeline while the team sleeps.
 
-Marketing Boutique builds the outbound automation systems that allow small teams to achieve the output of a scaled sales development organization.
+Marketing Boutique builds the outbound automation systems that allow small teams to achieve the output of a scaled sales development organization. This is a core component of our [GTM Engineering](/solutions/gtm-engineering/) practice.
 
 ---
 
@@ -140,6 +140,14 @@ We use dedicated outbound domains, proper authentication (SPF/DKIM/DMARC), gradu
 
 ### What's the ramp-up time?
 A fully operational outbound system takes 4-6 weeks to deploy, including domain warming. First meetings typically appear in week 3-4.
+
+---
+
+## Related Solutions
+
+- [**GTM Engineering**](/solutions/gtm-engineering/) — Full-stack revenue infrastructure
+- [**Fix Leaky Funnel**](/solutions/fix-leaky-funnel/) — Stop losing qualified leads
+- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

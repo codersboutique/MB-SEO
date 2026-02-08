@@ -76,7 +76,7 @@ We optimize the moments that matter.
 - **Demo Booking Flow:** Calendar integration, confirmation sequences, no-show prevention.
 
 ### 3. Retargeting Infrastructure
-Most visitors leave. We bring them back.
+Most visitors leave. We bring them back. This integrates with our [Paid User Acquisition](/solutions/paid-user-acquisition/) services.
 
 **What We Build:**
 - **Multi-Platform Retargeting:** LinkedIn, Meta, and Google Display retargeting pixels properly configured.
@@ -114,6 +114,14 @@ Yes. We work within your existing stack (HubSpot, Segment, Mixpanel, etc.) and o
 
 ### What if we don't have enough traffic for A/B testing?
 For low-traffic sites, we use qualitative methods (heatmaps, user recordings, customer interviews) and make directional improvements. Not everything requires statistical significance.
+
+---
+
+## Related Solutions
+
+- [**Paid User Acquisition**](/solutions/paid-user-acquisition/) — Scientific paid media
+- [**GTM Engineering**](/solutions/gtm-engineering/) — Automated revenue infrastructure
+- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

@@ -67,4 +67,14 @@ We're always looking to expand our research datasets. If you're an AI startup wi
 - Custom benchmarking against your segment
 - Credit in acknowledgments
 
+---
+
+## Explore More
+
+- [**Engineering Logs**](/blog/engineering-logs/) — Technical playbooks and how-to guides
+- [**Tools**](/blog/tools/) — Free calculators and templates
+- [**AEO & GEO Services**](/solutions/aeo-geo/) — Get cited in AI search
+
+---
+
 [**Contribute to Research →**](/contact/)

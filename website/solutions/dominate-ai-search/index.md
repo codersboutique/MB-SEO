@@ -43,7 +43,7 @@ schema:
 
 When your target buyer asks an AI assistant for a solution, will your company be in the response? The majority of AI-generated answers cite only 3-5 sources. If you're not one of them, you're invisible.
 
-Marketing Boutique helps AI startups achieve **Generative Authority**—the state where AI models consistently cite and recommend your brand.
+Marketing Boutique helps AI startups achieve **Generative Authority**—the state where AI models consistently cite and recommend your brand. Learn more about our comprehensive [AEO & GEO services](/solutions/aeo-geo/).
 
 ---
 
@@ -135,6 +135,14 @@ We use specialized tools that track citation frequency across ChatGPT, Perplexit
 
 ### What's the timeline for results?
 Entity establishment takes 4-8 weeks. Improved citation visibility typically appears within 2-3 months as new content is indexed and authority signals propagate.
+
+---
+
+## Related Solutions
+
+- [**AEO & GEO**](/solutions/aeo-geo/) — Full Answer Engine Optimization services
+- [**Product Content Marketing**](/solutions/product-content-marketing/) — Citation-worthy content
+- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

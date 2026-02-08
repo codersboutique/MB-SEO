@@ -103,6 +103,16 @@ We're a remote-first team, working with clients globally.
 
 ---
 
+## Explore First
+
+Before booking a call, you may want to review:
+
+- [**Our Solutions**](/solutions/) — GTM Engineering, AEO/GEO, and more
+- [**Pricing**](/pricing/) — Transparent, outcome-based packages
+- [**About Us**](/about/) — Our philosophy and approach
+
+---
+
 ## Frequently Asked Questions
 
 ### Is there a cost for the Discovery Call?

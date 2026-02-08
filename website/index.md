@@ -101,6 +101,15 @@ We start every engagement with a **Deep Audit**—a standalone product that asse
 
 ---
 
+## Explore More
+
+| Learn More | Resources |
+|------------|-----------|
+| [**About Us**](/about/) — Meet the GTM Engineering team | [**Results**](/results/) — Case studies & outcomes |
+| [**Pricing**](/pricing/) — Transparent, outcome-based pricing | [**Blog**](/blog/) — Research, playbooks & tools |
+
+---
+
 ## Frequently Asked Questions
 
 ### What is GTM Engineering?

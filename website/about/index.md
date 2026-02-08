@@ -117,6 +117,14 @@ We monitor, iterate, and improve. Monthly reviews. Quarterly planning. Continuou
 
 ---
 
+## Explore More
+
+- [**Our Solutions**](/solutions/) — GTM Engineering, AEO/GEO, and more
+- [**Pricing**](/pricing/) — Transparent, outcome-based pricing
+- [**Results**](/results/) — Case studies and client outcomes
+
+---
+
 ## Let's Talk
 
 If our philosophy resonates, let's explore a partnership.

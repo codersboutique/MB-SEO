@@ -106,7 +106,7 @@ We help you tell the story your investors need to hear.
 
 ## Benchmarks for AI Startups
 
-Based on our work with Series A and Series B AI companies:
+Based on our work with [Series A](/solutions/series-a/) and Series B AI companies:
 
 | Metric | Healthy Benchmark |
 |--------|-------------------|
@@ -129,6 +129,14 @@ Yes—especially if you're raising soon. Investors increasingly expect data soph
 
 ### How long does implementation take?
 Basic attribution setup: 2-4 weeks. Full multi-touch attribution with dashboards: 6-8 weeks.
+
+---
+
+## Related Solutions
+
+- [**Seed Stage**](/solutions/seed-stage/) — Building early GTM infrastructure
+- [**Series A**](/solutions/series-a/) — Scaling with efficient unit economics
+- [**View Pricing**](/pricing/) — ROI-focused packages
 
 ---
 

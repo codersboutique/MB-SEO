@@ -121,6 +121,14 @@ Not an AI startup? We also help Bay Area service businesses (law firms, medical 
 
 ---
 
+## Explore More
+
+- [**Results**](/results/) — Case studies and client outcomes
+- [**Blog**](/blog/) — Research, playbooks, and tools
+- [**About Us**](/about/) — Meet the GTM Engineering team
+
+---
+
 ## Not Sure Where to Start?
 
 Book a Discovery Call and we'll help you identify the highest-impact starting point.
