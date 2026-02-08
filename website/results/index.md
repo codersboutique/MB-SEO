@@ -39,7 +39,7 @@ We measure success in the metrics that matter to your board: pipeline generated,
 **Challenge:** Series A AI infrastructure company with no inbound demand and a 3-person sales team.
 
 **What We Built:**
-- Clay-powered enrichment waterfall achieving 94% email coverage
+- [**Clay-powered**](/solutions/gtm-engineering/outbound/) enrichment waterfall achieving 94% email coverage
 - Signal-based prospecting (GitHub activity, job postings)
 - AI-personalized outbound sequences
 
@@ -61,7 +61,7 @@ We measure success in the metrics that matter to your board: pipeline generated,
 
 **What We Built:**
 - Full-funnel attribution infrastructure (multi-touch)
-- ABM retargeting integrated with CRM
+- [**ABM retargeting**](/solutions/paid-user-acquisition/linkedin/) integrated with CRM
 - Funnel optimization across landing pages
 
 **Results:**
@@ -80,7 +80,7 @@ We measure success in the metrics that matter to your board: pipeline generated,
 **Challenge:** AI SaaS platform invisible in AI search—zero citations in ChatGPT or Perplexity.
 
 **What We Built:**
-- Wikidata entity establishment
+- [**Wikidata entity**](/solutions/aeo-geo/technical-seo/) establishment
 - Citation engineering (strategic PR placement)
 - Schema implementation across 200+ pages
 - llms.txt implementation

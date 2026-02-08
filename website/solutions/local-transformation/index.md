@@ -178,12 +178,6 @@ Initial GBP optimization shows impact within 2-4 weeks. Full AI local pack visib
 
 ---
 
-## Related Solutions
-
-- [**AEO & GEO**](/solutions/aeo-geo/) — AI visibility for any business
-- [**About Us**](/about/) — Meet the Marketing Boutique team
-- [**View Pricing**](/pricing/) — Local SMB packages
-
 ---
 
 [**Schedule a Local Audit →**](/contact/)

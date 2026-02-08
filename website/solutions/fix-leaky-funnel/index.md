@@ -110,18 +110,10 @@ Leads that aren't ready today might be ready in 90 days.
 A comprehensive audit takes 2 weeks. We deliver a prioritized action plan with quick wins and long-term recommendations.
 
 ### Do you work with our existing tools?
-Yes. We work within your existing stack (HubSpot, Segment, Mixpanel, etc.) and optimize configurations before recommending new tools.
+Yes. We work within your existing stack ([**HubSpot**](/solutions/gtm-engineering/tech-stack/), Segment, Mixpanel, etc.) and optimize configurations before recommending new tools.
 
 ### What if we don't have enough traffic for A/B testing?
 For low-traffic sites, we use qualitative methods (heatmaps, user recordings, customer interviews) and make directional improvements. Not everything requires statistical significance.
-
----
-
-## Related Solutions
-
-- [**Paid User Acquisition**](/solutions/paid-user-acquisition/) — Scientific paid media
-- [**GTM Engineering**](/solutions/gtm-engineering/) — Automated revenue infrastructure
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

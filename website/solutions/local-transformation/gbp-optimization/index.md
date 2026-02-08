@@ -30,7 +30,7 @@ schema:
           name: "How often should we update our Google Business Profile?"
           acceptedAnswer:
             "@type": "Answer"
-            text: "For optimal AI visibility, we recommend weekly posts, monthly photo updates, and real-time responses to all Q&As and reviews. Activity signals indicate a thriving business."
+            text: "For optimal AI visibility, we recommend weekly posts, monthly photo updates, and real-time responses to all Q&As and [**reviews**](/solutions/local-transformation/reputation-management/). Activity signals indicate a thriving business."
 ---
 
 # Google Business Profile Optimization
@@ -147,12 +147,6 @@ For optimal AI visibility, we recommend weekly posts, monthly photo updates, and
 Yes. We manage multi-location GBP profiles with consistent branding, localized content, and centralized reporting.
 
 ---
-
-## Related Services
-
-- [**Local SEO**](/solutions/local-transformation/local-seo/) — AI-optimized local search visibility
-- [**Reputation Management**](/solutions/local-transformation/reputation-management/) — Automated review generation
-- [**All Local Services**](/solutions/local-transformation/) — Complete local digital transformation
 
 ---
 

@@ -70,7 +70,7 @@ AI Local SEO is the practice of optimizing your business's digital presence for 
 ### 1. Cross-Platform Directory Sync
 We synchronize your NAP (Name, Address, Phone) and service information across 70+ directories:
 
-- Google Business Profile
+- [**Google Business Profile**](/solutions/local-transformation/gbp-optimization/)
 - Apple Maps / Apple Business Connect
 - Bing Places
 - Yelp
@@ -125,12 +125,6 @@ The AI local pack is the set of 3-5 business recommendations shown by AI assista
 Directory sync improvements appear within 2-4 weeks. AI local pack visibility typically improves within 60-90 days as trust signals compound.
 
 ---
-
-## Related Services
-
-- [**GBP Optimization**](/solutions/local-transformation/gbp-optimization/) — The foundation of AI local visibility
-- [**Reputation Management**](/solutions/local-transformation/reputation-management/) — Build review signals AI trusts
-- [**All Local Services**](/solutions/local-transformation/) — Complete local digital transformation
 
 ---
 

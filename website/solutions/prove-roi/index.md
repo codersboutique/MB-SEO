@@ -122,21 +122,13 @@ If you're below these benchmarks, we identify why and build the infrastructure t
 ## Frequently Asked Questions
 
 ### What tools do you work with?
-We work with most common analytics and CRM stacks: HubSpot, Salesforce, Segment, Mixpanel, Amplitude, Google Analytics, and data warehouses like BigQuery or Snowflake.
+We work with most common analytics and CRM stacks: [**HubSpot**](/solutions/gtm-engineering/sales-automation/), Salesforce, Segment, Mixpanel, Amplitude, Google Analytics, and data warehouses like BigQuery or Snowflake.
 
 ### We're pre-Series A. Is this relevant?
 Yes—especially if you're raising soon. Investors increasingly expect data sophistication even from early-stage companies. Basic attribution infrastructure costs less than one bad hire.
 
 ### How long does implementation take?
 Basic attribution setup: 2-4 weeks. Full multi-touch attribution with dashboards: 6-8 weeks.
-
----
-
-## Related Solutions
-
-- [**Seed Stage**](/solutions/seed-stage/) — Building early GTM infrastructure
-- [**Series A**](/solutions/series-a/) — Scaling with efficient unit economics
-- [**View Pricing**](/pricing/) — ROI-focused packages
 
 ---
 

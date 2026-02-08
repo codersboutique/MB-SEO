@@ -97,7 +97,7 @@ We deploy a specific "Modern Data Stack" for GTM:
 
 ## Core GTM Engineering Services
 
-### [Data Enrichment Waterfalls](/solutions/gtm-engineering/enrichment-waterfalls/)
+### [Data Enrichment Waterfalls](/solutions/gtm-engineering/outbound/)
 AI startups live and die by their data. We build sophisticated enrichment waterfalls using Clay, Clearbit, Apollo, and specialized vendors.
 
 **What You Get:**
@@ -105,7 +105,7 @@ AI startups live and die by their data. We build sophisticated enrichment waterf
 - Deduplication and data hygiene automation.
 - Real-time enrichment triggers on new leads.
 
-### [CRM Architecture](/solutions/gtm-engineering/crm-architecture/)
+### [CRM Architecture](/solutions/gtm-engineering/sales-automation/)
 Your CRM is not a database—it's the operating system of revenue.
 
 **What You Get:**
@@ -113,7 +113,7 @@ Your CRM is not a database—it's the operating system of revenue.
 - Lifecycle stage automation based on product usage signals.
 - Sales/Marketing alignment through shared definitions and SLAs.
 
-### [Outbound Infrastructure](/solutions/gtm-engineering/outbound-infrastructure/)
+### [Outbound Infrastructure](/solutions/gtm-engineering/outbound/)
 Cold email is a primary channel for B2B, but deliverability is a technical challenge.
 
 **What You Get:**
@@ -121,7 +121,7 @@ Cold email is a primary channel for B2B, but deliverability is a technical chall
 - AI-personalized email drafts at scale using LLMs.
 - Inbox rotation and warm-up automation.
 
-### [Integration Middleware](/solutions/gtm-engineering/integration-middleware/)
+### [Integration Middleware](/solutions/gtm-engineering/full-stack/)
 Startups use fragmented stacks. We connect them.
 
 **What You Get:**
@@ -171,12 +171,6 @@ We augment them. A well-architected GTM pipeline allows a smaller SDR team to ac
 We start with a **GTM Audit** to assess your current stack. Then we propose a project scope—typically starting with one high-impact pipeline (e.g., automated enrichment or inbound routing).
 
 ---
-
-## Related Solutions
-
-- [**AEO & GEO**](/solutions/aeo-geo/) — Dominate AI search and answer engines
-- [**Product Content Marketing**](/solutions/product-content-marketing/) — Content that drives adoption
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

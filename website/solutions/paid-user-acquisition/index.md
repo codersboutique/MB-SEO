@@ -57,7 +57,7 @@ Marketing Boutique builds paid acquisition systems that compound—not just spen
 
 ## Our Paid Acquisition Services
 
-### 1. Account-Based Retargeting (ABM)
+### [1. Account-Based Retargeting (ABM)](/solutions/paid-user-acquisition/linkedin/)
 We connect your GTM data to ad platforms for precision targeting.
 
 **What We Build:**
@@ -65,7 +65,7 @@ We connect your GTM data to ad platforms for precision targeting.
 - **CRM-to-Ad Platform Sync:** Target decision-makers at your best accounts.
 - **Buying Committee Targeting:** Multi-thread ads to all stakeholders in target accounts.
 
-### 2. Synthetic Lookalike Audiences
+### [2. Synthetic Lookalike Audiences](/solutions/paid-user-acquisition/meta/)
 We go beyond demographic lookalikes to technographic and firmographic signals.
 
 **What We Build:**
@@ -73,7 +73,7 @@ We go beyond demographic lookalikes to technographic and firmographic signals.
 - **Technographic Targeting:** Target companies using specific tools (via Clearbit, Builtwith data).
 - **Intent Layering:** Combine firmographics with intent signals (G2, Bombora).
 
-### 3. Generative Creative Testing
+### [3. Generative Creative Testing](/solutions/paid-user-acquisition/meta/)
 We use AI to produce and test creative at scale.
 
 **What We Do:**
@@ -81,7 +81,7 @@ We use AI to produce and test creative at scale.
 - **Systematic Testing:** Structured A/B tests on hooks, visuals, CTAs.
 - **Winning Creative Playbooks:** Document what works for future campaigns.
 
-### 4. Pipeline-Connected Optimization
+### [4. Pipeline-Connected Optimization](/solutions/paid-user-acquisition/google/)
 We optimize for pipeline, not clicks.
 
 **What We Build:**
@@ -136,12 +136,6 @@ We can either replace or augment. Often we take over strategy and ABM integratio
 Initial campaigns launch in 2-3 weeks. Optimization improvements are visible within 60-90 days as we gather data and iterate.
 
 ---
-
-## Related Solutions
-
-- [**GTM Engineering**](/solutions/gtm-engineering/) — Automated revenue infrastructure
-- [**Product Content Marketing**](/solutions/product-content-marketing/) — Content that converts
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

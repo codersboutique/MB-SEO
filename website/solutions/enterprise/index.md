@@ -77,7 +77,7 @@ Expanding internationally means more than translation. It requires local entity 
 Enterprise sales require precision. We integrate your GTM data with advertising for surgical targeting.
 
 **What We Build:**
-- **Account-Based Retargeting:** Integration of website visitor data with LinkedIn Matched Audiences.
+- [**Account-Based Retargeting**](/solutions/paid-user-acquisition/linkedin/): Integration of website visitor data with LinkedIn Matched Audiences.
 - **Buying Committee Mapping:** Multi-threaded outreach to all stakeholders within target accounts.
 - **Intent Data Integration:** Using Bombora, G2, or 6sense to prioritize accounts showing active buying signals.
 
@@ -122,14 +122,6 @@ We align our metrics with your board-level KPIs: NRR, win rates, and category sh
 
 ### What's the engagement model?
 Enterprise engagements typically start with an **Executive Discovery Workshop** (2-day strategy session) followed by a long-term partnership.
-
----
-
-## Related Solutions
-
-- [**Series A Solutions**](/solutions/series-a/) — Earlier stage? Start here
-- [**AEO & GEO**](/solutions/aeo-geo/) — Dominate AI search visibility
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

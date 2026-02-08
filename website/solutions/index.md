@@ -94,16 +94,29 @@ Start with your biggest pain point:
 Explore our core capabilities:
 
 ### [GTM Engineering](/solutions/gtm-engineering/)
-The operational backbone of modern growth. Data enrichment, CRM architecture, outbound infrastructure, and integration middleware.
+The operational backbone of modern growth.
+- [**Full-Stack GTM**](/solutions/gtm-engineering/full-stack/) — Complete revenue operating system
+- [**Outbound Engineering**](/solutions/gtm-engineering/outbound/) — Signal-based prospecting
+- [**Sales Automation**](/solutions/gtm-engineering/sales-automation/) — CRS & routing infrastructure
+- [**Tech Stack**](/solutions/gtm-engineering/tech-stack/) — Tool selection & integration
 
 ### [AEO & GEO](/solutions/aeo-geo/)
-Answer Engine and Generative Engine Optimization. Entity authority, citation engineering, and technical machine readability.
+Answer Engine and Generative Engine Optimization.
+- [**AEO Services**](/solutions/aeo-geo/aeo/) — Winning Google's AI snapshots
+- [**AI Search Visibility**](/solutions/aeo-geo/ai-search/) — Optimizing for ChatGPT & Claude
+- [**Technical SEO**](/solutions/aeo-geo/technical-seo/) — Infrastructure for AI crawlers
 
 ### [Product Content Marketing](/solutions/product-content-marketing/)
-Product-led content, programmatic SEO, and the Barbell Strategy. Content that drives adoption, not just views.
+Product-led content and authentic brand building.
+- [**Blog SEO**](/solutions/product-content-marketing/blog-seo/) — Product-led content engines
+- [**Founder Brand**](/solutions/product-content-marketing/linkedin/) — Personal branding on LinkedIn
+- [**Thought Leadership**](/solutions/product-content-marketing/thought-leadership/) — Category design & narrative
 
 ### [Paid User Acquisition](/solutions/paid-user-acquisition/)
-Scientific paid acquisition. ABM retargeting, synthetic audiences, and generative creative testing.
+Scientific paid acquisition for B2B.
+- [**Google Ads**](/solutions/paid-user-acquisition/google/) — Intent-based search engineering
+- [**LinkedIn Ads**](/solutions/paid-user-acquisition/linkedin/) — ABM & matched audiences
+- [**Meta Ads**](/solutions/paid-user-acquisition/meta/) — B2B scale on Facebook/Instagram
 
 
 

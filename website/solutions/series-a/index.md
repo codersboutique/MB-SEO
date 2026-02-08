@@ -62,7 +62,7 @@ If your current GTM relies on manual effort—hand-crafted emails, ad-hoc spread
 We architect the technical backbone of your revenue engine.
 
 **What We Build:**
-- **Clay Enrichment Waterfalls:** Multi-source data enrichment (Clearbit, Apollo, People Data Labs) to achieve 90%+ email coverage.
+- [**Clay Enrichment Waterfalls**](/solutions/gtm-engineering/outbound/): Multi-source data enrichment (Clearbit, Apollo, People Data Labs) to achieve 90%+ email coverage.
 - **Programmatic Prospecting Pipelines:** Automated workflows that monitor for "signal events" (e.g., GitHub stars, G2 reviews, job postings) and trigger personalized outreach.
 - **AI-Powered Personalization:** Using LLMs within n8n to scrape prospect context (LinkedIn posts, company news) and generate unique email hooks at scale.
 
@@ -70,7 +70,7 @@ We architect the technical backbone of your revenue engine.
 Your CRM is the foundation of scalable GTM. We architect it properly.
 
 **What We Build:**
-- **Custom Object Design:** Purpose-built HubSpot/Salesforce architecture for AI startups.
+- **Custom Object Design:** Purpose-built [**HubSpot/Salesforce**](/solutions/gtm-engineering/sales-automation/) architecture for AI startups.
 - **Lead Scoring Models:** Behavior-based scoring tied to product signals.
 - **Sales Automation:** Automated routing, sequencing, and task creation.
 
@@ -123,14 +123,6 @@ We commit to a "Quick Win Sprint" in the first 14 days—one tangible automation
 
 ### What's the ROI?
 We frame ROI in terms of **CAC reduction** and **headcount avoidance**. A well-architected GTM pipeline can replace the output of 2-3 SDRs.
-
----
-
-## Related Solutions
-
-- [**Enterprise Solutions**](/solutions/enterprise/) — Ready for category domination?
-- [**GTM Engineering**](/solutions/gtm-engineering/) — Full-stack revenue infrastructure
-- [**View Pricing**](/pricing/) — Series A packages
 
 ---
 

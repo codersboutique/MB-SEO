@@ -19,7 +19,7 @@ schema:
       - "Answer Engine Optimization"
       - "Generative Engine Optimization"
       - "Revenue Operations"
-      - "Clay Automation"
+      - "[**Clay Automation**](/solutions/gtm-engineering/outbound/)"
       - "Usage-Based Pricing"
     sameAs:
       - "https://www.linkedin.com/company/marketing-boutique"
@@ -30,7 +30,7 @@ schema:
 
 **We're Not a Marketing Agency. We're GTM Engineers.**
 
-Marketing Boutique was founded on a simple observation: AI-native startups don't need more campaigns—they need **revenue infrastructure**. They need partners who speak the language of APIs, data pipelines, and automation, not just creative briefs and brand guidelines.
+Marketing Boutique was founded on a simple observation: AI-native startups don't need more campaigns—they need [**revenue infrastructure**](/solutions/gtm-engineering/full-stack/). They need partners who speak the language of APIs, data pipelines, and automation, not just creative briefs and brand guidelines.
 
 We bridge the gap between marketing strategy and technical execution.
 

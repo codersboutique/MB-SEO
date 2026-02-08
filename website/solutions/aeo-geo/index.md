@@ -86,7 +86,7 @@ GEO is about ensuring your brand is cited by Large Language Models when they syn
 
 ## Our AEO & GEO Services
 
-### 1. Entity Authority Package
+### [1. Entity Authority Package](/solutions/aeo-geo/aeo/)
 We establish your company as a **Knowledge Graph entity**.
 
 **What We Build:**
@@ -94,7 +94,7 @@ We establish your company as a **Knowledge Graph entity**.
 - **Knowledge Panel Claiming:** Verification with Google to display your official information.
 - **Semantic Disambiguation:** Using "SameAs" schema to tell crawlers your website is the same entity as your LinkedIn, G2, and Crunchbase profiles.
 
-### 2. Citation Engineering
+### [2. Citation Engineering](/solutions/aeo-geo/ai-search/)
 We ensure you appear in the sources that LLMs trust.
 
 **What We Build:**
@@ -102,7 +102,7 @@ We ensure you appear in the sources that LLMs trust.
 - **Third-Party Validation:** G2, Clutch, Capterra profiles optimized for AI retrieval.
 - **Brand Association Content:** "Acme AI vs. Competitor" pages that train the model to associate you with market leaders.
 
-### 3. Technical Machine Readability
+### [3. Technical Machine Readability](/solutions/aeo-geo/technical-seo/)
 Your website must be optimized for the AI crawler.
 
 **What We Build:**
@@ -160,12 +160,6 @@ Yes. Traditional SEO (technical health, backlinks, on-page optimization) remains
 We start with a **GEO Visibility Audit**—a comprehensive report on your current AI search presence, competitor analysis, and prioritized recommendations.
 
 ---
-
-## Related Solutions
-
-- [**GTM Engineering**](/solutions/gtm-engineering/) — Automated revenue infrastructure
-- [**Product Content Marketing**](/solutions/product-content-marketing/) — Content that drives adoption
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

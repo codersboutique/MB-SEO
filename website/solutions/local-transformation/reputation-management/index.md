@@ -91,7 +91,7 @@ We track the words customers use—not just the stars.
 ### 4. Multi-Platform Coverage
 We don't just focus on Google:
 
-- **Google Business Profile** — Primary AI data source
+- [**Google Business Profile**](/solutions/local-transformation/gbp-optimization/) — Primary AI data source
 - **Yelp** — Critical for certain industries
 - **Facebook** — Social validation
 - **Industry Directories** — Healthgrades, Avvo, HomeAdvisor, Capterra, etc.
@@ -126,12 +126,6 @@ We integrate with your CRM or scheduling software to trigger SMS/email review re
 Absolutely not. We automate the *solicitation* of real reviews from real customers. Fake reviews violate platform policies and destroy trust—the opposite of what AI-ready marketing requires.
 
 ---
-
-## Related Services
-
-- [**Local SEO**](/solutions/local-transformation/local-seo/) — AI-optimized local search visibility
-- [**GBP Optimization**](/solutions/local-transformation/gbp-optimization/) — Foundation of AI local visibility
-- [**All Local Services**](/solutions/local-transformation/) — Complete local digital transformation
 
 ---
 

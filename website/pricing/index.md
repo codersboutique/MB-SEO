@@ -92,9 +92,9 @@ We offer three engagement models depending on your needs:
 | **Monthly Retainer** | $8,000 - $12,000/month |
 
 **Setup Includes:**
-- Clay implementation and waterfall enrichment logic
+- [**Clay implementation**](/solutions/gtm-engineering/outbound/) and waterfall enrichment logic
 - Apollo/ZoomInfo data source configuration
-- CRM integration (HubSpot/Salesforce) with bi-directional sync
+- CRM integration ([**HubSpot/Salesforce**](/solutions/gtm-engineering/sales-automation/)) with bi-directional sync
 - Outbound infrastructure (Instantly/Smartlead) with DNS setup
 - Custom workflow development
 
@@ -111,7 +111,7 @@ We offer three engagement models depending on your needs:
 
 ### Package B: AI Visibility Authority Module
 
-**GEO/AEO optimization for AI search citation and visibility.**
+**[GEO/AEO optimization](/solutions/aeo-geo/aeo/) for AI search citation and visibility.**
 
 | Component | Investment |
 |-----------|-----------|

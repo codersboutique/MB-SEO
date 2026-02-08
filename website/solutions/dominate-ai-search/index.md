@@ -66,7 +66,7 @@ Marketing Boutique helps AI startups achieve **Generative Authority**—the stat
 You must exist in the AI's world model as a recognized entity.
 
 **What We Do:**
-- Create and verify **Wikidata** entries for your company and key executives.
+- Create and verify [**Wikidata**](/solutions/aeo-geo/aeo/) entries for your company and key executives.
 - Optimize **Google Knowledge Panel** with official information.
 - Build entity associations with industry leaders and category terms.
 
@@ -82,7 +82,7 @@ LLMs cite sources they trust. We make you trustworthy.
 AI crawlers need to efficiently parse and retrieve your content.
 
 **What We Do:**
-- Implement **llms.txt**—a manifest file that guides AI crawlers.
+- Implement [**llms.txt**](/solutions/aeo-geo/technical-seo/)—a manifest file that guides AI crawlers.
 - Structure content with **semantic HTML** and Markdown tables.
 - Break content into **chunk-optimized sections** that fit RAG retrieval windows.
 
@@ -135,14 +135,6 @@ We use specialized tools that track citation frequency across ChatGPT, Perplexit
 
 ### What's the timeline for results?
 Entity establishment takes 4-8 weeks. Improved citation visibility typically appears within 2-3 months as new content is indexed and authority signals propagate.
-
----
-
-## Related Solutions
-
-- [**AEO & GEO**](/solutions/aeo-geo/) — Full Answer Engine Optimization services
-- [**Product Content Marketing**](/solutions/product-content-marketing/) — Citation-worthy content
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

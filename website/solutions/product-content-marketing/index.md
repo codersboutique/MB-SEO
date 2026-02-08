@@ -57,7 +57,7 @@ Marketing Boutique builds content engines that tie directly to your product—so
 
 ## Our Product Content Services
 
-### 1. Programmatic SEO (pSEO)
+### [1. Programmatic SEO (pSEO)](/solutions/product-content-marketing/blog-seo/)
 We create thousands of landing pages dynamically from data.
 
 **Examples:**
@@ -78,7 +78,7 @@ Your docs are a marketing channel.
 - **API Documentation:** Clean, comprehensive docs that reduce friction.
 - **Integration Guides:** Content that targets "how to integrate X with Y" queries.
 
-### 3. Product-Led Blog Content
+### [3. Product-Led Blog Content](/solutions/product-content-marketing/blog-seo/)
 Blog posts where your product is the solution.
 
 **What We Write:**
@@ -86,7 +86,7 @@ Blog posts where your product is the solution.
 - Problem-solution narrative with product as the answer.
 - Embedded product screenshots and walkthroughs.
 
-### 4. Conversion Content
+### [4. Conversion Content](/solutions/product-content-marketing/thought-leadership/)
 Bottom-of-funnel content that closes.
 
 **What We Create:**
@@ -143,12 +143,6 @@ We pair content strategists with technical reviewers. For highly technical conte
 Programmatic SEO page templates take 4-6 weeks to develop. Depending on your data, we can launch hundreds to thousands of pages within 8 weeks.
 
 ---
-
-## Related Solutions
-
-- [**AEO & GEO**](/solutions/aeo-geo/) — Optimize for AI search visibility
-- [**GTM Engineering**](/solutions/gtm-engineering/) — Automated revenue infrastructure
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 

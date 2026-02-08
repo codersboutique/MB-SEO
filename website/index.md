@@ -71,7 +71,7 @@ We specialize in **AI-native B2B startups** navigating the journey from Product-
 ## Core Capabilities
 
 ### [GTM Engineering](/solutions/gtm-engineering/)
-The operational backbone of modern growth. We build automated pipelines using **Clay**, **n8n**, and **Supabase** to enrich leads, score intent, and trigger personalized outreach at scale.
+The operational backbone of modern growth. We build automated pipelines using [**Clay**](/solutions/gtm-engineering/outbound/), [**n8n**](/solutions/gtm-engineering/tech-stack/), and **Supabase** to enrich leads, score intent, and trigger personalized outreach at scale.
 
 ### [AEO & GEO](/solutions/aeo-geo/)
 Future-proof your discovery. We optimize your digital presence to be cited by Answer Engines—from schema implementation to citation engineering.
@@ -116,7 +116,7 @@ We start every engagement with a **Deep Audit**—a standalone product that asse
 GTM Engineering is the discipline of designing and automating the technical infrastructure that drives revenue. It replaces manual SDR labor with API-driven automation, using tools like Clay, n8n, and HubSpot to build programmatic prospecting pipelines.
 
 ### What is AEO and GEO?
-**Answer Engine Optimization (AEO)** focuses on structuring content to provide direct answers for AI search. **Generative Engine Optimization (GEO)** is about ensuring your brand is cited by Large Language Models like ChatGPT and Perplexity when they synthesize answers.
+[**Answer Engine Optimization (AEO)**](/solutions/aeo-geo/aeo/) focuses on structuring content to provide direct answers for AI search. [**Generative Engine Optimization (GEO)**](/solutions/aeo-geo/ai-search/) is about ensuring your brand is cited by Large Language Models like ChatGPT and Perplexity when they synthesize answers.
 
 ### Who is your ideal client?
 Post-PMF AI startups (Seed to Series B) who view marketing as a technical system, not a creative expense. Our clients are typically engineering-led and have a usage-based or consumption-based pricing model.

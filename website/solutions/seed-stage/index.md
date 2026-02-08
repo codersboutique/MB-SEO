@@ -62,8 +62,8 @@ Traditional marketing agencies will burn your capital on "brand awareness" campa
 Before you can hire a sales team, the founder must close deals. We build the infrastructure to make this efficient.
 
 **What We Build:**
-- **Targeted Outbound Sequences:** Using Clay enrichment and AI-personalized email drafts.
-- **CRM Architecture:** A lightweight HubSpot or Attio setup designed for founder-led velocity.
+- **Targeted Outbound Sequences:** Using [**Clay enrichment**](/solutions/gtm-engineering/outbound/) and AI-personalized email drafts.
+- **CRM Architecture:** A lightweight [**HubSpot**](/solutions/gtm-engineering/sales-automation/) or Attio setup designed for founder-led velocity.
 - **Meeting Scheduler Automation:** Calendly + Slack triggers for instant team notification.
 
 ### 2. ICP Validation Engine
@@ -116,14 +116,6 @@ We're not a traditional agency. Our Seed packages are designed for pre-Series A 
 
 ### What's the first step?
 We start with a **60-minute Discovery Call** to understand your product, market, and current GTM stack. From there, we propose a targeted scope.
-
----
-
-## Related Solutions
-
-- [**Series A Solutions**](/solutions/series-a/) — Ready to scale? See what comes next
-- [**AEO & GEO**](/solutions/aeo-geo/) — Dominate AI search visibility
-- [**View Pricing**](/pricing/) — Seed-friendly packages
 
 ---
 

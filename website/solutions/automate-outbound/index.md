@@ -51,7 +51,7 @@ Marketing Boutique builds the outbound automation systems that allow small teams
 
 | Manual Activity | Time Cost | Automation Alternative |
 |-----------------|-----------|------------------------|
-| Prospect research | 20 min/prospect | Instant Clay enrichment |
+| Prospect research | 20 min/prospect | Instant [**Clay**](/solutions/gtm-engineering/outbound/) enrichment |
 | Email personalization | 10 min/email | LLM-generated hooks |
 | Follow-up tracking | Ongoing | Automated sequences |
 | List building | Hours weekly | Signal-based triggers |
@@ -109,9 +109,9 @@ High-volume outbound requires industrial-grade email infrastructure.
 | Component | Tool | Purpose |
 |-----------|------|---------|
 | **Enrichment** | Clay | Multi-source prospect data |
-| **Orchestration** | n8n / Make | Workflow automation |
+| **Orchestration** | [**n8n**](/solutions/gtm-engineering/tech-stack/) / Make | Workflow automation |
 | **Sending** | Smartlead / Instantly | Cold email delivery |
-| **CRM** | HubSpot / Salesforce | Deal tracking |
+| **CRM** | [**HubSpot / Salesforce**](/solutions/gtm-engineering/sales-automation/) | Deal tracking |
 | **LinkedIn** | La Growth Machine / Expandi | Social selling |
 
 ---
@@ -140,14 +140,6 @@ We use dedicated outbound domains, proper authentication (SPF/DKIM/DMARC), gradu
 
 ### What's the ramp-up time?
 A fully operational outbound system takes 4-6 weeks to deploy, including domain warming. First meetings typically appear in week 3-4.
-
----
-
-## Related Solutions
-
-- [**GTM Engineering**](/solutions/gtm-engineering/) — Full-stack revenue infrastructure
-- [**Fix Leaky Funnel**](/solutions/fix-leaky-funnel/) — Stop losing qualified leads
-- [**See Results**](/results/) — Case studies and outcomes
 
 ---
 
