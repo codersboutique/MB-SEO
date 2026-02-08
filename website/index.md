@@ -1,6 +1,6 @@
 ---
-title: Marketing Boutique | GTM Engineering for AI-Native Startups
-description: We engineer revenue infrastructure for AI-native B2B startups. From Seed to Series A, we build the GTM systems that scale—not campaigns.
+title: Marketing Boutique | GTM Engineering & AI SEO Agency
+description: The GTM Engineering & AI SEO Agency for B2B Startups. Specializing in Fractional CMO strategy, Revenue Architecture, and Outbound Automation.
 layout: homepage
 schema:
   "@context": "https://schema.org"
@@ -57,9 +57,9 @@ schema:
         "query-input": "required name=search_term_string"
 ---
 
-# We Engineer Revenue for AI-Native Startups
+# The GTM Engineering & AI SEO Agency for B2B Startups
 
-**Marketing Boutique** is not a marketing agency. We are **GTM Engineers**. We design and build the automated revenue infrastructure that allows AI-native B2B companies to scale from Seed to Series A and beyond.
+**Marketing Boutique** is not a traditional marketing agency. We are **GTM Engineers**. We design and build the **Revenue Architecture** that allows AI-native B2B companies to scale from Seed to Series A and beyond.
 
 The era of "campaigns" is over. In 2026, growth is about **architecture**—data pipelines, API integrations, and algorithmic authority. If your marketing stack requires manual labor to function, you are already behind.
 
@@ -116,7 +116,7 @@ Bessemer Venture Partners defines "Supernova" companies as those with explosivel
 
 **That's us.**
 
-We view marketing as a system to be optimized, not a creative endeavor. Our team is composed of engineers, data scientists, and GTM specialists—not just marketers.
+We view marketing as a system to be optimized, not a creative endeavor. Our team functions as your **Fractional CMO** and GTM engineering unit, composed of data scientists and systems architects—not just marketers.
 
 ---
 
