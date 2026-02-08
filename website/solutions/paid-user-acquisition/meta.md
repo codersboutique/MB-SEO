@@ -1,6 +1,7 @@
 ---
-title: Meta Ads (Facebook/Instagram) for B2B | Marketing Boutique
-description: Discover B2B buyers where they spend their free time. High-volume, low-cost acquisition on Meta.
+title: Facebook & Instagram Ads Agency | Meta Ads for B2B | Marketing Boutique
+description: High-performance Facebook & Instagram Ads Agency. We help B2B companies scale acquisition with algorithmic targeting on Meta.
+keywords: [facebook ads agency, instagram ads agency, b2b facebook ads agency, meta ads agency]
 layout: solution
 schema:
   "@context": "https://schema.org"

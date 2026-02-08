@@ -1,6 +1,7 @@
 ---
-title: Paid User Acquisition | Scientific Paid Media for Startups | Marketing Boutique
-description: Data-driven paid acquisition—LinkedIn, Google, and Meta ads with ABM targeting, synthetic audiences, and generative creative testing.
+title: B2B Paid Media Agency | Scientific Paid Acquisition | Marketing Boutique
+description: The leading B2B Paid Media Agency for startups. Data-driven acquisition on LinkedIn, Google, and Meta with ABM targeting and scale.
+keywords: [paid media agency, b2b paid media agency, paid user acquisition agency, b2b saas marketing agency]
 layout: solution
 schema:
   "@context": "https://schema.org"

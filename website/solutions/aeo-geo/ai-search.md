@@ -1,18 +1,19 @@
 ---
-title: AI Search Visibility (GEO) Services | Marketing Boutique
-description: Optimize your brand for ChatGPT, Claude, Perplexity, and Gemini. Generative Engine Optimization for the AI era.
+title: Generative Engine Optimization (GEO) Services | Marketing Boutique
+description: Expert Generative Engine Optimization services to rank in ChatGPT, Claude, and Perplexity. The premier GEO agency for the AI search era.
+keywords: [generative engine optimization, generative engine optimization services, generative engine optimization tools, geo generative engine optimization]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@type": "Service"
-  serviceType: "Generative Engine Optimization"
+  serviceType: "Generative Engine Optimization Services"
   provider:
     "@type": "Organization"
     name: "Marketing Boutique"
   areaServed: "Worldwide"
 ---
 
-# AI Search Visibility (GEO)
+# Generative Engine Optimization (GEO) Services
 
 **If ChatGPT Doesn't Know You, You Don't Exist.**
 

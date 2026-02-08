@@ -1,6 +1,7 @@
 ---
-title: Founder Brand & LinkedIn Personal Branding | Marketing Boutique
-description: Turn your founder into a media channel. We build authentic personal brands for technical founders that drive revenue.
+title: LinkedIn Ghostwriting Services | Founder Brand | Marketing Boutique
+description: Premium LinkedIn Ghostwriting Services for founders. We build authentic personal brands that drive revenue and attract talent.
+keywords: [linkedin ghostwriting, linkedin content strategy, founder branding agency, executive ghostwriting]
 layout: solution
 schema:
   "@context": "https://schema.org"

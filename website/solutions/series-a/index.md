@@ -1,13 +1,14 @@
 ---
-title: Series A GTM Solutions | Scaling Revenue Infrastructure | Marketing Boutique
-description: Overcome the Series A Crunch with systematic GTM engineering—CAC reduction, automated enrichment, and scalable revenue operations.
+title: Series A Marketing Agency | Scaling Revenue | Marketing Boutique
+description: The Series A Marketing Agency for high-growth startups. We build scalable revenue infrastructure to help you survive the Series A crunch.
+keywords: [marketing for series a startups, series a marketing strategy, growth marketing agency, b2b saas marketing agency]
 layout: solution-stage
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
       serviceType: "Series A GTM Engineering"
-      name: "Series A GTM Solutions"
+      name: "Series A Marketing Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

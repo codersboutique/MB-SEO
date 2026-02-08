@@ -1,13 +1,14 @@
 ---
-title: Dominate AI Search | Generative Engine Optimization | Marketing Boutique
-description: Own the AI search landscape. Be cited by ChatGPT, Perplexity, and Google AI Overviews with our comprehensive GEO strategy.
+title: AI Search Strategy Services | Dominate AI Search | Marketing Boutique
+description: Comprehensive AI Search Strategy services. We help you dominate AI search results on ChatGPT, Perplexity, and Google AI Overviews.
+keywords: [ai search strategy, ai search strategy services, ai search monitoring marketing strategy, dominate ai search]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Generative Engine Optimization"
-      name: "Dominate AI Search"
+      serviceType: "AI Search Strategy"
+      name: "AI Search Strategy Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

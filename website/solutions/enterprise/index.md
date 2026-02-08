@@ -1,13 +1,14 @@
 ---
-title: Enterprise GTM Solutions | Category Domination for AI Leaders | Marketing Boutique
-description: Global GTM architecture, multi-product positioning, and ABM orchestration for AI companies ready to dominate their category.
+title: Enterprise SEO Agency & GTM Solutions | Marketing Boutique
+description: The Enterprise SEO Agency for AI companies. We provide global GTM architecture, multi-product positioning, and ABM orchestration.
+keywords: [enterprise seo agency, enterprise seo agency software, best enterprise seo agency, top enterprise seo agency]
 layout: solution-stage
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Enterprise GTM Engineering"
-      name: "Enterprise GTM Solutions"
+      serviceType: "Enterprise SEO Agency"
+      name: "Enterprise SEO Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

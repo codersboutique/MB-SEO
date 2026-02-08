@@ -1,6 +1,7 @@
 ---
-title: Revenue Tech Stack Consulting | Marketing Boutique
-description: Stop overpaying for shelfware. We select, implement, and optimize the tools that drive growth. Clay, HubSpot, Apollo, and more.
+title: B2B Sales Tech Stack Consulting | Marketing Boutique
+description: Optimize your B2B Sales Tech Stack. We select, implement, and integrate the tools that drive revenue. Clay, HubSpot, Apollo, and more.
+keywords: [sales tech stack, sales enablement tech stack, b2b sales tech stack, revenue operations tech stack]
 layout: solution
 schema:
   "@context": "https://schema.org"

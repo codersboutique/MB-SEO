@@ -1,15 +1,20 @@
 ---
-title: Full-Stack GTM Engineering | Marketing Boutique
-description: A complete GTM operating system. We design, build, and manage the integrated revenue infrastructure for high-growth AI startups.
-layout: solution
+title: GTM Engineering Agency & Services | Marketing Boutique
+description: The premier GTM Engineering Agency. We build full-stack revenue infrastructure—data enrichment, CRM architecture, and outbound automation.
+keywords: [gtm engineering, what is gtm engineering, gtm engineering agency, best platforms for growth engineering in gtm]
+layout: solution-hub
 schema:
   "@context": "https://schema.org"
-  "@type": "Service"
-  serviceType: "GTM Engineering"
-  provider:
-    "@type": "Organization"
-    name: "Marketing Boutique"
-  areaServed: "Worldwide"
+  "@graph":
+    - "@type": "Service"
+      "@id": "https://marketing-boutique.com/services/gtm-engineering/#service"
+      name: "GTM Engineering Services"
+      serviceType: "GTM Engineering"
+      description: "End-to-end go-to-market engineering for B2B SaaS startups. We build and automate your outbound engine using Clay, Apollo, and modern sales tools."
+      provider:
+        "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
+        name: "Marketing Boutique"
 ---
 
 # Full-Stack GTM Engineering

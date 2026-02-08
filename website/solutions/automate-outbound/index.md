@@ -1,13 +1,15 @@
+```
 ---
-title: Automate Outbound | GTM Engineering for Scalable Outreach | Marketing Boutique
-description: Replace manual SDR labor with automated prospecting pipelines—signal-based targeting, AI personalization, and inbox infrastructure.
+title: Sales Automation Agency | Automated Outbound Services | Marketing Boutique
+description: The leading Sales Automation Agency for B2B. We build automated prospecting pipelines that replace manual SDR work with AI-driven outreach.
+keywords: [sales automation agency, ai sales automation agency email templates, marketing and sales automation agency, automated outbound services]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Outbound Automation"
-      name: "Automate Outbound"
+      serviceType: "Sales Automation Agency"
+      name: "Sales Automation Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

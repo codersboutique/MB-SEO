@@ -1,15 +1,20 @@
 ---
-title: Product-Led Content & SEO | Marketing Boutique
-description: Stop writing "SEO content." Start building content products that acquisition users and drive product signups.
+title: Product Marketing & Content Agency | Marketing Boutique
+description: The Product Marketing Agency for B2B startups. We build content engines that drive adoption, from pSEO to technical documentation.
+keywords: [product marketing services, b2b content marketing agency, content marketing for saas, technical content marketing]
 layout: solution
 schema:
   "@context": "https://schema.org"
-  "@type": "Service"
-  serviceType: "Content Marketing"
-  provider:
-    "@type": "Organization"
-    name: "Marketing Boutique"
-  areaServed: "Worldwide"
+  "@graph":
+    - "@type": "Service"
+      "@id": "https://marketing-boutique.com/services/product-content-marketing/#service"
+      name: "Product Content Marketing Services"
+      serviceType: "B2B Content Marketing"
+      description: "Product-led content strategies that solve user problems and drive adoption—programmatic SEO, technical documentation, and conversion content."
+      provider:
+        "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
+        name: "Marketing Boutique"
 ---
 
 # Product-Led Content & SEO

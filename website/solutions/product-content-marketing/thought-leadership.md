@@ -1,6 +1,7 @@
 ---
-title: Thought Leadership & Category Design | Marketing Boutique
-description: Don't join the conversation. Change it. Strategic narrative design and category creation for Series A+ startups.
+title: Thought Leadership Strategy & Category Design | Marketing Boutique
+description: Strategic Thought Leadership & Category Design. We help you name your category and own the narrative in your market.
+keywords: [thought leadership strategy, thought leadership marketing, category design agency, strategic narrative]
 layout: solution
 schema:
   "@context": "https://schema.org"

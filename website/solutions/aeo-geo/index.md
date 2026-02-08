@@ -1,15 +1,16 @@
 ---
-title: AEO & GEO | Answer Engine & Generative Engine Optimization | Marketing Boutique
-description: Optimize your brand for AI search—be cited by ChatGPT, Perplexity, and Google AI Overviews. Entity authority and citation engineering.
+title: AEO Agency & GEO Services | AI SEO Services | Marketing Boutique
+description: The premier AEO Agency for B2B. We provide AI SEO services to help you be cited by ChatGPT, Perplexity, and Google AI Overviews.
+keywords: [aeo agency, aeo marketing agency, best aeo agency, ai seo services]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
       "@id": "https://marketing-boutique.com/services/aeo-geo/#service"
-      name: "AEO & GEO Services"
-      serviceType: "Answer Engine Optimization"
-      description: "Optimize your brand for AI search—be cited by ChatGPT, Perplexity, and Google AI Overviews. Entity authority and citation engineering."
+      name: "AEO Agency Services"
+      serviceType: "AEO Marketing Agency"
+      description: "The premier AEO Agency for B2B. We provide AI SEO services to help you be cited by ChatGPT, Perplexity, and Google AI Overviews."
       provider:
         "@id": "https://marketing-boutique.com/#organization"
         "@type": "Organization"

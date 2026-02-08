@@ -1,18 +1,19 @@
 ---
-title: Technical SEO for AI Crawlers | Marketing Boutique
-description: Optimize your infrastructure for AI agents and LLM crawlers. llms.txt, JSON-LD, and Javascript rendering for the modern web.
+title: Technical SEO for AI & LLM Optimization | Marketing Boutique
+description: Advanced technical SEO for AI search engines. We optimize infrastructure for AI agents, including llms.txt, JSON-LD, and crawlability audits.
+keywords: [generative ai for technical seo, ai for technical seo audits, technical seo for ai search engines, optimize technical seo for ai crawlability]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@type": "Service"
-  serviceType: "Technical SEO"
+  serviceType: "Technical SEO for AI"
   provider:
     "@type": "Organization"
     name: "Marketing Boutique"
   areaServed: "Worldwide"
 ---
 
-# Technical SEO for AI
+# Technical SEO for AI Crawlers
 
 **Robots Read Code, Not Pixels.**
 

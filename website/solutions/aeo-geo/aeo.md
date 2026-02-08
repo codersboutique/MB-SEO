@@ -1,18 +1,19 @@
 ---
-title: Answer Engine Optimization (AEO) Services | Marketing Boutique
-description: Optimize your content for Google AI Overviews and Featured Snippets. Win the answer, not just the link.
+title: Generative Engine Optimization (GEO) Services | Marketing Boutique
+description: Expert Generative Engine Optimization services to rank in ChatGPT, Claude, and Perplexity. The premier GEO agency for the AI search era.
+keywords: [generative engine optimization, generative engine optimization services, generative engine optimization tools, geo generative engine optimization]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@type": "Service"
-  serviceType: "Answer Engine Optimization"
+  serviceType: "Generative Engine Optimization Services"
   provider:
     "@type": "Organization"
     name: "Marketing Boutique"
   areaServed: "Worldwide"
 ---
 
-# Answer Engine Optimization (AEO)
+# Generative Engine Optimization (GEO) Services
 
 **Stop Chasing Clicks. Start Being the Answer.**
 

@@ -1,18 +1,19 @@
 ---
-title: Google Business Profile Optimization | AI-Ready GBP Management | Marketing Boutique
-description: Complete Google Business Profile optimization for AI local search. Weekly posts, Q&A management, and structured data that AI systems trust.
-layout: solution
+title: Local SEO Services & Digital Transformation | Marketing Boutique
+description: AI-Ready Local SEO Services for Bay Area SMBs. We provide Google Business Profile optimization, reputation management, and local search strategy.
+keywords: [local seo services definition, local seo services, local digital transformation, ai local seo]
+layout: solution-hub
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Google Business Profile Optimization"
-      name: "GBP Optimization for AI Search"
+      serviceType: "Local SEO Services"
+      name: "Local Digital Transformation Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
         name: "Marketing Boutique"
-      description: "Complete Google Business Profile management optimized for AI local search visibility. Weekly updates, Q&A seeding, and structured data implementation."
+      description: "AI-Ready Local SEO Services for Bay Area SMBs. We provide Google Business Profile optimization, reputation management, and local search strategy."
       areaServed:
         "@type": "Place"
         name: "San Francisco Bay Area"

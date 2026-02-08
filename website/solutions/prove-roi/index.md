@@ -1,17 +1,22 @@
+```
 ---
-title: Prove ROI to Investors | Attribution & Analytics | Marketing Boutique
-description: Build investor-grade marketing attribution. Demonstrate CAC efficiency, LTV payback, and pipeline contribution to secure your next round.
-layout: solution
+title: Seed Stage Marketing Agency | GTM for Startups | Marketing Boutique
+description: The specialized Seed Stage Marketing Agency for AI startups. We help you validate PMF and acquire your first 100 customers.
+keywords: [marketing for seed startups, seed stage marketing agency, startup marketing strategy, go to market strategy for startups]
+layout: solution-stage
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Marketing Attribution"
-      name: "Prove ROI to Investors"
+      serviceType: "Seed Stage GTM Engineering"
+      name: "Seed Stage Marketing Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
         name: "Marketing Boutique"
+      audience:
+        "@type": "Audience"
+        audienceType: "Pre-Series A AI Startups"
       areaServed: "Worldwide"
     - "@type": "FAQPage"
       mainEntity:

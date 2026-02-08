@@ -1,13 +1,14 @@
 ---
-title: Fix Leaky Funnel | Conversion Rate Optimization & Retargeting | Marketing Boutique
-description: Stop losing qualified leads. CRO audits, retargeting infrastructure, and funnel optimization for AI startups.
+title: B2B Funnel Optimization Services | Fix Leaky Funnel | Marketing Boutique
+description: Expert B2B Funnel Optimization services. We fix leaky funnels with CRO audits, retargeting infrastructure, and performance optimization.
+keywords: [b2b funnel optimization, b2b funnel optimization performance, best b2b sales funnel optimization companies, fix leaky funnel]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Conversion Rate Optimization"
-      name: "Fix Leaky Funnel"
+      serviceType: "B2B Funnel Optimization"
+      name: "Funnel Optimization Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

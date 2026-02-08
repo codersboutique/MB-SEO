@@ -1,13 +1,14 @@
 ---
-title: Local Digital Transformation | AI-Ready Marketing for Bay Area SMBs | Marketing Boutique
-description: Transform your local business for the AI search era. Google Business Profile optimization, local SEO, and reputation management for Bay Area SMBs.
+title: Local SEO Services & Digital Transformation | Marketing Boutique
+description: AI-Ready Local SEO Services for Bay Area SMBs. We provide Google Business Profile optimization, reputation management, and local search strategy.
+keywords: [local seo services definition, local seo services, local digital transformation, ai local seo]
 layout: solution-hub
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Local Digital Transformation"
-      name: "Local Digital Transformation for SMBs"
+      serviceType: "Local SEO Services"
+      name: "Local Digital Transformation Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

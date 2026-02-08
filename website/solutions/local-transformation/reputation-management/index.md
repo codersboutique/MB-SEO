@@ -1,13 +1,14 @@
 ---
-title: Reputation Management | Review Automation & Sentiment Analysis | Marketing Boutique
-description: Automated review generation and AI-powered response management for Bay Area local businesses. Build the trust signals AI needs to recommend you.
+title: Online Reputation Management Services | Marketing Boutique
+description: Professional Online Reputation Management Services. We automate review generation and provide AI-powered response management to build trust.
+keywords: [online reputation management, reputation management services, online reputation management companies, review management service]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
       serviceType: "Reputation Management"
-      name: "AI-Era Reputation Management"
+      name: "Online Reputation Management Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

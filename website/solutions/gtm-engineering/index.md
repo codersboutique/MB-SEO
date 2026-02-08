@@ -1,6 +1,7 @@
 ---
-title: GTM Engineering | Revenue Infrastructure for AI Startups | Marketing Boutique
-description: Full-stack GTM Engineering—data enrichment waterfalls, CRM architecture, outbound infrastructure, and API integrations for scalable revenue.
+title: GTM Engineering Agency & Services | Marketing Boutique
+description: The premier GTM Engineering Agency. We build full-stack revenue infrastructure—data enrichment, CRM architecture, and outbound automation.
+keywords: [gtm engineering, what is gtm engineering, gtm engineering agency, best platforms for growth engineering in gtm]
 layout: solution-hub
 schema:
   "@context": "https://schema.org"

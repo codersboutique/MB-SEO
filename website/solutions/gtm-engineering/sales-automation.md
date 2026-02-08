@@ -1,6 +1,7 @@
 ---
-title: CRS & Sales Automation Services | Marketing Boutique
-description: Stop manual data entry. Automate your CRM, lead routing, and follow-ups with HubSpot and Salesforce engineering.
+title: Sales Automation Agency Services | CRM Engineering | Marketing Boutique
+description: Expert Sales Automation Agency. We automate your CRM, lead routing, and follow-ups with HubSpot and Salesforce engineering.
+keywords: [sales automation agency, sales tech stack, crm automation services, hubspot automation agency]
 layout: solution
 schema:
   "@context": "https://schema.org"

@@ -1,13 +1,14 @@
 ---
-title: Seed Stage GTM Solutions | Finding Product-Market Fit | Marketing Boutique
-description: GTM engineering and growth infrastructure for pre-Series A startups. Validate PMF and acquire your first 100 customers efficiently.
+title: Seed Stage Marketing Agency | GTM for Startups | Marketing Boutique
+description: The specialized Seed Stage Marketing Agency for AI startups. We help you validate PMF and acquire your first 100 customers.
+keywords: [marketing for seed startups, seed stage marketing agency, startup marketing strategy, go to market strategy for startups]
 layout: solution-stage
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
       serviceType: "Seed Stage GTM Engineering"
-      name: "Seed Stage GTM Solutions"
+      name: "Seed Stage Marketing Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"

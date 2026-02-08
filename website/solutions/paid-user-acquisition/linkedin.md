@@ -1,6 +1,7 @@
 ---
-title: LinkedIn Ads ABM Services | Marketing Boutique
-description: Precision targeting for B2B. We turn LinkedIn Ads into an ABM sniper rifle, targeting only your exact ICP.
+title: LinkedIn Ads Agency & ABM Services | Marketing Boutique
+description: Expert LinkedIn Ads Agency for B2B. We turn LinkedIn Ads into an ABM sniper rifle, targeting your exact ICP with precision.
+keywords: [linkedin ads agency, b2b linkedin ads agency, linkedin marketing agency, abm agency]
 layout: solution
 schema:
   "@context": "https://schema.org"

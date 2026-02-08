@@ -1,11 +1,12 @@
 ---
-title: Solutions | GTM Engineering & Revenue Infrastructure | Marketing Boutique
-description: GTM infrastructure solutions for AI-native startups—by growth stage, by challenge, or by service. Build systems, not campaigns.
+title: Marketing Services & Solutions | Marketing Boutique
+description: Comprehensive Marketing Services for AI Startups. From GTM Engineering to Paid Acquisition and Content Strategy.
+keywords: [marketing services, marketing agency services, digital marketing services list, b2b marketing services]
 layout: hub
 schema:
   "@context": "https://schema.org"
   "@type": "CollectionPage"
-  name: "GTM Engineering Solutions"
+  name: "Marketing Services & Solutions"
   description: "Revenue infrastructure solutions for AI-native B2B startups"
   provider:
     "@type": "Organization"

@@ -1,6 +1,7 @@
 ---
-title: Product Content Marketing | Content That Drives Adoption | Marketing Boutique
-description: Product-led content strategies that solve user problems and drive adoption—programmatic SEO, technical documentation, and conversion content.
+title: Product Marketing & Content Agency | Marketing Boutique
+description: The Product Marketing Agency for B2B startups. We build content engines that drive adoption, from pSEO to technical documentation.
+keywords: [product marketing services, b2b content marketing agency, content marketing for saas, technical content marketing]
 layout: solution
 schema:
   "@context": "https://schema.org"

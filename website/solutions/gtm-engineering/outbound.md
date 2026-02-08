@@ -1,6 +1,7 @@
 ---
-title: Signal-Based Outbound Engineering | Marketing Boutique
-description: Automate your prospecting with Clay, Instantly, and Smartlead. Replace manual SDR work with signal-based engineering.
+title: B2B Lead Generation Services | Outbound Engineering | Marketing Boutique
+description: Signal-based B2B Lead Generation Services. We automate your prospecting with Clay, Instantly, and Smartlead for high-quality leads.
+keywords: [b2b lead generation services, outbound b2b lead generation services, signal based selling, automated lead generation]
 layout: solution
 schema:
   "@context": "https://schema.org"

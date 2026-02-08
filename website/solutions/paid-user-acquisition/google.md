@@ -1,15 +1,20 @@
 ---
-title: Scientific Google Ads Management | Marketing Boutique
-description: Stop wasting budget on bad clicks. We engineer Google Ads accounts for conversion, not just traffic.
+title: B2B Paid Media Agency | Scientific Paid Acquisition | Marketing Boutique
+description: The leading B2B Paid Media Agency for startups. Data-driven acquisition on LinkedIn, Google, and Meta with ABM targeting and scale.
+keywords: [paid media agency, b2b paid media agency, paid user acquisition agency, b2b saas marketing agency]
 layout: solution
 schema:
   "@context": "https://schema.org"
-  "@type": "Service"
-  serviceType: "PPC Management"
-  provider:
-    "@type": "Organization"
-    name: "Marketing Boutique"
-  areaServed: "Worldwide"
+  "@graph":
+    - "@type": "Service"
+      "@id": "https://marketing-boutique.com/services/paid-user-acquisition/#service"
+      name: "Paid User Acquisition Services"
+      serviceType: "Paid Advertising"
+      description: "Data-driven paid acquisition—LinkedIn, Google, and Meta ads with ABM targeting, synthetic audiences, and generative creative testing."
+      provider:
+        "@id": "https://marketing-boutique.com/#organization"
+        "@type": "Organization"
+        name: "Marketing Boutique"
 ---
 
 # Scientific Google Ads

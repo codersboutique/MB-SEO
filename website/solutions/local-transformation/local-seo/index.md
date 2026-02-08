@@ -1,13 +1,14 @@
 ---
-title: Local SEO for AI Search | Voice & AI Local Pack Optimization | Marketing Boutique
-description: AI-optimized local SEO for Bay Area businesses. Voice search optimization, AI local pack targeting, and cross-platform directory sync.
+title: Local SEO Agency for AI Search | Marketing Boutique
+description: The premier Local SEO Agency for the AI era. We optimize for Voice Search, AI Local Packs (Gemini/ChatGPT), and cross-platform visibility.
+keywords: [local seo agency, local seo agency near me, ai local seo, voice search optimization agency]
 layout: solution
 schema:
   "@context": "https://schema.org"
   "@graph":
     - "@type": "Service"
-      serviceType: "Local SEO"
-      name: "AI-Ready Local SEO"
+      serviceType: "Local SEO Agency"
+      name: "Local SEO Services"
       provider:
         "@type": "Organization"
         "@id": "https://marketing-boutique.com/#organization"
